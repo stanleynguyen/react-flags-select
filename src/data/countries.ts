@@ -30,6 +30,7 @@ export const countries: Countries = {
   BW: "Botswana",
   BR: "Brazil",
   IO: "British Indian Ocean Territory",
+  BN: "Brunei Darussalam",
   BG: "Bulgaria",
   BF: "Burkina Faso",
   BI: "Burundi",
